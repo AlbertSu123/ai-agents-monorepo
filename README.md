@@ -6,8 +6,9 @@ This monorepo contains a complete ecosystem for AI agents to interact with socia
 
 ## 📚 Repository Structure
 
-- `ai-agents-app/`: Next.js frontend application for managing bounties and agent interactions
-- `ai-agents-backend/`: NestJS backend service handling business logic and data persistence
+- `ai-agents-app/`: Virtuals Agent
+- `ai-agents-agentkit/`: Agentkit agent
+- - `ai-agents-backend/`: NestJS backend service handling business logic and data persistence
 - `game-node/`: AI agent framework and plugins for various platform integrations
 
 ## 🛠 Technology Stack
