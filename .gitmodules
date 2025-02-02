@@ -4,3 +4,6 @@
 [submodule "ai-agents-backend"]
 	path = ai-agents-backend
 	url = https://github.com/AlbertSu123/ai-agents-backend
+[submodule "ai-agents-agent"]
+	path = ai-agents-agent
+	url = https://github.com/AlbertSu123/game-node
