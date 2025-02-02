@@ -7,3 +7,6 @@
 [submodule "ai-agents-agent"]
 	path = ai-agents-agent
 	url = https://github.com/AlbertSu123/game-node
+[submodule "ai-agents-agentkit"]
+	path = ai-agents-agentkit
+	url = https://github.com/AlbertSu123/ai-agent-agentkit
