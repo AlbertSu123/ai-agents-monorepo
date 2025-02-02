@@ -1,0 +1,3 @@
+[submodule "ai-agents-app"]
+	path = ai-agents-app
+	url = https://github.com/AlbertSu123/ai-agents-app
