@@ -4,9 +4,9 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/AlbertSu123/ai-agents-backend
-[submodule "gaia-marketing-agent"]
-	path = gaia-marketing-agent
-	url = https://github.com/AlbertSu123/game-node
 [submodule "coinbase-agentkit-marketing-agent"]
 	path = coinbase-agentkit-marketing-agent
-	url = https://github.com/AlbertSu123/ai-agent-agentkit
+url = https://github.com/AlbertSu123/ai-agent-agentkit
+[submodule "virtuals-marketing-agent"]
+	path = virtuals-marketing-agent
+	url = https://github.com/AlbertSu123/game-node
