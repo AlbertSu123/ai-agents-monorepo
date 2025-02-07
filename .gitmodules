@@ -10,3 +10,6 @@ url = https://github.com/AlbertSu123/ai-agent-agentkit
 [submodule "virtuals-marketing-agent"]
 	path = virtuals-marketing-agent
 	url = https://github.com/AlbertSu123/game-node
+[submodule "gaia-marketing-agent"]
+	path = gaia-marketing-agent
+	url = https://github.com/AlbertSu123/gaia-marketing-agent.git
